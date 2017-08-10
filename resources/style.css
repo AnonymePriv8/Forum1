@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  color: green;
+}
+
+#connexion>h1{
+	font-family: Tahoma;
+	text-align: center;
+  font-family: sans-serif;
+}
+
+#connexion>pre, #connexion>form{
+	text-align: center;
+}
+
+#connexion>form>input{
+	border: none;
+	background-color: black;
+	color: green;
+	font-family: Tahoma;
+}
+
+.text2{
+  font-family: Tahoma;
+  font-size: 28px;
+  color:red;
+}
+
+.text:hover{
+  font-family: Tahoma;
+  font-size: 21px;
+  color:white;
+}
